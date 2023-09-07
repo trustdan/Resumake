@@ -1,0 +1,6 @@
+Make your resume with https://latexresu.me/ and then edit with TeXstudio https://www.texstudio.org/#download 
+
+Will need a base distribution of Tex, such as MikTeX or Tex Live, which ships with TeXstudio.  Texmaker might look flashier, but TeXstudio works better tbh.  Or Overleaf online if you don't want to do all that. 
+
+Cheers.
+![alt text](https://raw.githubusercontent.com/trustdan/Resumake/main/Rust%20LaTeX%20Resume%209-7-2023/resume.pdf)
