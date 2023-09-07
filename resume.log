@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.25)  7 SEP 2023 01:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.25)  7 SEP 2023 02:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -127,7 +127,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--53
 {C:/Users/danie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] ) 
 Here is how much of TeX's memory you used:
  879 strings out of 476411
- 14131 string characters out of 5798949
+ 14184 string characters out of 5798949
  1860845 words of memory out of 5000000
  21300 multiletter control sequences out of 15000+600000
  517297 words of font info for 39 fonts, out of 8000000 for 9000
